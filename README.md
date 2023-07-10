@@ -1,8 +1,8 @@
 # Final Project: Course Database
 
 ## Team Members:  
-Hunter Webb (hwebb1)
 Emma Williamson (ewilli25)
+Hunter Webb (hwebb1)
 
 ## App Description:  
 This app called CourseDatabase. It allows you to add a course to your course database with the courses specific attributes 
